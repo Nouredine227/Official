@@ -7,7 +7,8 @@
       "title":"Mon Super Jeu",
       "description":"Mon Super jeu FPS multijoueur avec Mirror",
       "fileUrl":"https://assets.stickpng.com/images/62e131b97fe3599fdd46ecb1.png",
-      "canDownLoad":true},
+      "canDownLoad":true
+    },
     {
       "fileType":".png",
       "imageUrl":"https://th.bing.com/th/id/OIP.a4ZSUmDGC56CMFcavyoR6QHaJE?rs=1&pid=ImgDetMain",
@@ -15,6 +16,14 @@
       "description":"Mon Super jeu FPS 2 multijoueur avec Mirror",
       "fileUrl":"https://www.google.com",
       "canDownLoad":false
+    },
+    {
+      "fileType":".png",
+      "imageUrl":"https://assets.stickpng.com/images/62e131b97fe3599fdd46ecb1.png",
+      "title":"Unity logo",
+      "description":"Logo de Unity",
+      "fileUrl":"https://assets.stickpng.com/images/62e131b97fe3599fdd46ecb1.png",
+      "canDownLoad":true
     }
   ]
 }
