@@ -1,1 +1,13 @@
-{"news":[{"imageUrl":"https://th.bing.com/th/id/R.3581ca17d14d88de8b8d3a32cf09a309?rik=n%2fXaOf9pd6rccg&riu=http%3a%2f%2fong-niger.org%2fstatic%2fdefault_theme%2fimages%2flogo.png&ehk=PDkYnHBbkaVj0Xsj58Xaf6rilRhMAeY%2biLJlmxZw0WM%3d&risl=&pid=ImgRaw&r=0","title":"Niger","description":"c'est un etat nouvellement devenu indepandant grâve au générale abdou rahmane tchani"},{"imageUrl":"https://th.bing.com/th/id/OIP.8W1aEGxi7iNemTmQtWpwbQHaC2?rs=1&pid=ImgDetMain","title":"Goal Niger","description":"une ONG internationnal qui apporte de l'aide au population des villages en assurant la potabilitée de l'eau et son accès"}]}
+{
+  "news":
+  [
+    {"imageUrl":"https://th.bing.com/th/id/R.3581ca17d14d88de8b8d3a32cf09a309?rik=n%2fXaOf9pd6rccg&riu=http%3a%2f%2fong-niger.org%2fstatic%2fdefault_theme%2fimages%2flogo.png&ehk=PDkYnHBbkaVj0Xsj58Xaf6rilRhMAeY%2biLJlmxZw0WM%3d&risl=&pid=ImgRaw&r=0",
+      "title":"Niger",
+      "description":"c'est un etat nouvellement devenu indepandant grâve au générale abdou rahmane tchani"
+    },
+    {"imageUrl":"https://th.bing.com/th/id/OIP.8W1aEGxi7iNemTmQtWpwbQHaC2?rs=1&pid=ImgDetMain",
+      "title":"Goal Niger",
+      "description":"une ONG internationnal qui apporte de l'aide au population des villages en assurant la potabilitée de l'eau et son accès"
+    }
+  ]
+}
