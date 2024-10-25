@@ -1,10 +1,1 @@
-{
-  "accounts": [
-    {
-      "username": "Nouredine AM",
-      "email": "abdoumayakinouredine@gmail.com",
-      "password": "7",
-      "load": false
-    }
-  ]
-}
+{"accounts":[{"username":"NouveauNom","email":"nouveauEmail@gmail.com","password":"motdepasse","load":true,"sha":""}]}
